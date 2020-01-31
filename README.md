@@ -19,3 +19,5 @@ This project consists of several parts:
 * Evaluate Model Performance
 
 * Web Application
+
+You can click here to [access](https://rpubs.com/zshi4/bankchurn) the html report.

@@ -10,3 +10,12 @@ Specifically, in this analysis, I compared demographic and account information a
 
 Keeping track of this bank's customer retention can help the bank to improve their products and enhance customer engagement.
 
+This project consists of several parts:
+
+* Exploratory Data Analysis
+
+* Predictive Modeling
+
+* Evaluate Model Performance
+
+* Web Application

@@ -1,3 +1,5 @@
+# Bank Churn Prediction
+
 The regional bank in Europe wants to predict the probability that a customer will churn in order to:
 
 * Have a better understanding of its customers and factors impacting their retention

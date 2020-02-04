@@ -22,4 +22,4 @@ This project consists of several parts:
 
 * Web Application
 
-You can click [here](https://rpubs.com/zshi4/bankchurn) to access the html report.
+You can click [here](https://rpubs.com/zshi4/bankchurnml) to access the html report.

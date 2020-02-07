@@ -25,3 +25,5 @@ This project consists of several parts:
 You can click [here](https://rpubs.com/zshi4/bankchurnml) to access the html report. (https://rpubs.com/zshi4/571670)
 
 The Shiny app is available at: https://stoneshi.shinyapps.io/Bank-Churn/
+
+![Image Desscription](https://github.com/zshi74/Data/blob/master/shinyimage.png)
